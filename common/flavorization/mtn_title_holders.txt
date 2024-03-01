@@ -1,0 +1,44 @@
+great_duke = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 26
+}
+great_duke_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 26
+}
+
+great_king = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 46
+}
+great_king_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 46
+}
+
+great_emperor = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 101
+}
+great_emperor_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 101
+}
