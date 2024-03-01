@@ -1,2 +1,11 @@
 ﻿l_english:
 
+# More General names:
+ great_duke:0 "Great Duke"
+ great_duke_female:0 "Great Duchess"
+
+ great_king:0 "Great King"
+ great_king_female:0 "Great Queen"
+
+ great_emperor:0 " High Emperor"
+ great_emperor_female:0 "High Empress"
